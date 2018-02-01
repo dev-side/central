@@ -1,3 +1,3 @@
-var =[a:"Hello"];
+var =[a:"Hello",b:"Sai"];
 
 
